@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Osalab</string>
+
+    <!-- Bottom Bar -->
+    <string name="device_test">Device Test</string>
+    <string name="test_list">Test List</string>
+
+    <!-- Main Diagnostic Screen -->
+    <string name="diagnostic_title">Device Diagnostic</string>
+    <string name="enter_imei">Enter Phone IMEI</string>
+    <string name="check_device">Check Device</string>
+    <string name="imei_not_registered">This IMEI is not registered.</string>
+    <string name="next">Next</string>
+    <string name="storage">Storage: %s</string>
+    <string name="color">Color: %s</string>
+
+    <!-- Test Names -->
+    <string name="test_touch">Touch Test</string>
+    <string name="test_color">Color Test</string>
+    <string name="test_battery">Battery Test</string>
+    <string name="test_usb">USB Test</string>
+    <string name="test_speaker">Speaker Test</string>
+    <string name="test_mic">Mic Test</string>
+
+    <!-- Battery Screen -->
+    <string name="battery_diagnostic">Battery Efficiency 🔋</string>
+    <string name="battery_efficiency">Efficiency</string>
+    <string name="estimated_usage">Estimated usage: %s</string>
+    <string name="battery_status">Battery Status</string>
+    <string name="charging">Charging ⚡</string>
+    <string name="discharging">Discharging</string>
+    <string name="health_state">Efficiency State</string>
+    <string name="current_charge">Current Charge</string>
+    <string name="cycles_count">Cycles Count</string>
+    <string name="temperature">Temperature</string>
+    <string name="voltage">Voltage</string>
+    <string name="max_capacity">Max Capacity</string>
+    <string name="complete_diagnostic">Complete Diagnostic</string>
+    <string name="healthy">Healthy</string>
+    <string name="service_needed">Service Needed</string>
+    <string name="not_supported">Not Supported</string>
+
+    <!-- Mic Screen -->
+    <string name="mic_diagnostic">Microphone Diagnostic 🎙️</string>
+    <string name="say_something">Say something to start! 🎤</string>
+    <string name="recording_voice">Recording your voice... 🔴</string>
+    <string name="playing_back">Playing back... Listen 🔊</string>
+    <string name="did_you_hear_voice">Did you hear your voice?</string>
+    <string name="mic_working">Mic Working Perfectly! ✅</string>
+    <string name="yes_clear">Yes, Clear ✅</string>
+    <string name="no_silent">No, Silent ❌</string>
+    <string name="waiting_permission">Waiting for permission... 🎙️</string>
+
+    <!-- Speaker Screen -->
+    <string name="speaker_test">Speaker Test 🔊</string>
+    <string name="click_play">Click play and listen if you hear a sound</string>
+    <string name="speaker_result">Speaker Result</string>
+    <string name="did_you_hear_clearly">Did you hear the sound clearly?</string>
+    <string name="yes_heard">Yes, I heard it ✅</string>
+    <string name="no_heard">No ❌</string>
+
+    <!-- USB Screen -->
+    <string name="plug_charger">Plug charger into the phone 🔌</string>
+    <string name="charging_detected">Charging detected ✅</string>
+    <string name="no_connection">No connection ❌</string>
+    <string name="usb_type">Type: %s</string>
+    <string name="connection_stable">Connection Stable ✅</string>
+    <string name="unstable_loose">Unstable / Loose ❌</string>
+    <string name="finish_test">Finish Test</string>
+
+    <!-- IMEI Screen -->
+    <string name="imei_info_title">IMEI Information</string>
+    <string name="imei_info_desc">Please start recording using your account on the website, open the “About Phone” page, and make sure the phone information are clearly visible. Then return to the app and run the phone tests, ensuring all test checks are recorded.</string>
+    <string name="open_settings">Open "About Phone" Page</string>
+    <string name="upload_screenshot">Upload Screenshot</string>
+    <string name="screenshot_uploaded">Screenshot Uploaded ✅</string>
+    <string name="continue_to_diagnostic">Continue to Diagnostic</string>
+
+    <!-- General -->
+    <string name="retry">Retry</string>
+</resources>

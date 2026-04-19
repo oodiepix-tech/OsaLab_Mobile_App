@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Osalab</string>
+
+    <!-- Battery Screen -->
+    <string name="battery_diagnostic">فحص البطارية 🔋</string>
+    <string name="battery_efficiency">كفاءة البطارية</string>
+    <string name="estimated_usage">الاستخدام المتوقع: %s</string>
+    <string name="battery_status">حالة البطارية</string>
+    <string name="charging">جارٍ الشحن ⚡</string>
+    <string name="discharging">يتم التفريغ</string>
+    <string name="health_state">الحالة الصحية</string>
+    <string name="current_charge">نسبة الشحن</string>
+    <string name="cycles_count">عدد الدورات</string>
+    <string name="temperature">درجة الحرارة</string>
+    <string name="voltage">الجهد</string>
+    <string name="max_capacity">السعة القصوى</string>
+    <string name="complete_diagnostic">إتمام الفحص</string>
+    <string name="healthy">سليمة</string>
+    <string name="service_needed">تحتاج صيانة</string>
+    <string name="not_supported">غير مدعوم</string>
+    <string name="check_device">التحقق من الجهاز</string>
+
+    <!-- Mic Screen -->
+    <string name="mic_diagnostic">فحص المايكروفون 🎙️</string>
+    <string name="say_something">قل شيئاً للبدء! 🎤</string>
+    <string name="recording_voice">يتم تسجيل صوتك... 🔴</string>
+    <string name="playing_back">يتم التشغيل... استمع 🔊</string>
+    <string name="did_you_hear_voice">هل سمعت صوتك؟</string>
+    <string name="mic_working">المايك يعمل بامتياز! ✅</string>
+    <string name="yes_clear">نعم، واضح ✅</string>
+    <string name="no_silent">لا، صامت ❌</string>
+    <string name="waiting_permission">في انتظار الصلاحية... 🎙️</string>
+
+    <!-- Speaker Screen -->
+    <string name="speaker_test">فحص السماعات 🔊</string>
+    <string name="click_play">اضغط تشغيل واستمع إذا كان هناك صوت</string>
+    <string name="speaker_result">نتيجة السماعة</string>
+    <string name="did_you_hear_clearly">هل سمعت الصوت بوضوح؟</string>
+    <string name="yes_heard">نعم، سمعته ✅</string>
+    <string name="no_heard">لا ❌</string>
+
+    <!-- USB Screen -->
+    <string name="plug_charger">قم بتوصيل الشاحن 🔌</string>
+    <string name="charging_detected">تم كشف الشحن ✅</string>
+    <string name="no_connection">لا يوجد اتصال ❌</string>
+    <string name="usb_type">النوع: %s</string>
+    <string name="connection_stable">الاتصال مستقر ✅</string>
+    <string name="unstable_loose">غير مستقر / مهتز ❌</string>
+    <string name="finish_test">إنهاء الاختبار</string>
+    <string name="next">التالي</string>
+
+    <!-- IMEI Screen -->
+    <string name="imei_info_title">بيانات الـ IMEI</string>
+    <string name="imei_info_desc">يرجى بدء التسجيل باستخدام حسابك على الموقع، ثم فتح صفحة "حول الهاتف" والتأكد من أن جميع بيانات الهاتف واضحة بشكل كامل. بعد ذلك، ارجع إلى التطبيق وقم بتشغيل اختبارات الهاتف، مع التأكد من تسجيل جميع الفحوصات بالكامل.</string>
+    <string name="open_settings">افتح صفحه "حول الهاتف"</string>
+    <string name="upload_screenshot">رفع صورة الشاشة</string>
+    <string name="screenshot_uploaded">تم رفع الصورة بنجاح ✅</string>
+    <string name="continue_to_diagnostic">الانتقال للفحص</string>
+</resources>
